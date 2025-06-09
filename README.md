@@ -6,11 +6,10 @@ I'm passionate about cybersecurity and enjoy tackling real-world challenges thro
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Jeffreygmartin/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]()**
-
+- **[DISA STIG](https://github.com/Jeffreygmartin/Vulnerability-Management-Program)**
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)]()**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://medium.com/@jeffreygmartin2000)**
 
 <hr/>
 
