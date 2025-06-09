@@ -10,7 +10,7 @@ I'm passionate about cybersecurity and enjoy tackling real-world challenges thro
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting and Incident Response](https://medium.com/@jeffreygmartin2000)**
-
+- **[Phishing Analysis](https://medium.com/@jeffreygmartin2000/phishing-analysis-79d38bbe0714)**
 <hr/>
 
 ## 🤳 Connect With Me
